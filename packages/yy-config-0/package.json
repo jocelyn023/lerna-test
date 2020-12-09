@@ -1,5 +1,5 @@
 {
-  "name": "package_11111_l",
+  "name": "yy-config-0",
   "version": "0.0.8-alpha.0",
   "description": "> TODO: description",
   "author": "刘巧艳 <961951661@qq.com>",
@@ -32,5 +32,5 @@
     "test": "echo \"Error: run tests from root\" && exit 1",
     "dev": "webpack --config webpack.config.js  --watch --progress --colors"
   },
-  "gitHead": "d43c37785a377d02b9c8e51a2857e0d2e526b1fb"
+  "gitHead": "fb81b7823f6663be277699061996f34b079653d2"
 }
