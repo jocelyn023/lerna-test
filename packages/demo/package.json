@@ -35,5 +35,6 @@
   "dependencies": {
     "html-webpack-plugin": "^4.2.0",
     "package1": "^0.0.2-alpha.0"
-  }
+  },
+  "gitHead": "ee27b5c0add8e27efe07d5e0954e624eedb91609"
 }

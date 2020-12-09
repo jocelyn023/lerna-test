@@ -31,5 +31,6 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1",
     "dev": "webpack --config webpack.config.js  --watch --progress --colors"
-  }
+  },
+  "gitHead": "ee27b5c0add8e27efe07d5e0954e624eedb91609"
 }
