@@ -1,0 +1,6 @@
+48 error Error: Command failed: git tag v0.0.1-alpha.0 -m v0.0.1-alpha.0
+48 error fatal: tag 'v0.0.1-alpha.0' already exists
+48 error
+48 error     at makeError (/usr/local/lib/node_modules/lerna/node_modules/execa/index.js:174:9)
+48 error     at /usr/local/lib/node_modules/lerna/node_modules/execa/index.js:278:16
+48 error     at processTicksAndRejections (internal/process/task_queues.js:97:5)
