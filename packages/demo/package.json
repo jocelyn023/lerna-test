@@ -1,6 +1,6 @@
 {
   "name": "demo_liu",
-  "version": "0.0.8-alpha.0",
+  "version": "0.0.9-alpha.0",
   "description": "> TODO: description",
   "author": "刘巧艳 <961951661@qq.com>",
   "private": true,
@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "html-webpack-plugin": "^4.2.0",
-    "yy-config-0": "^0.0.8-alpha.0"
+    "yy-config-0": "^0.0.9-alpha.0"
   },
   "gitHead": "c104b30213e669e2319d172d2a81c3b76185a1b7"
 }
