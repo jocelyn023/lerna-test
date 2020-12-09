@@ -8,7 +8,7 @@ module.exports = {
     // 项目输出文件
     output: {
         filename: 'bundle.js',
-        libraryTarget: "umd",
+        libraryTarget: "umd",   // 不用省略
         path: path.resolve(__dirname, 'dist'),
     },
     resolve: {

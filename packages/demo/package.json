@@ -5,6 +5,7 @@
   "author": "刘巧艳 <961951661@qq.com>",
   "homepage": "",
   "license": "ISC",
+  "main": "lib/demo.js",
   "publishConfig": {
     "registry": "https://registry.yarnpkg.com/"
   },
@@ -27,7 +28,7 @@
     "webpack-dev-server": "^3.10.3"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"Error: run tests from root\" && exit 1",
     "dev": "webpack-dev-server",
     "dev2": "webpack --config webpack.config.js  --watch --progress --colors --mode=development"
   },
