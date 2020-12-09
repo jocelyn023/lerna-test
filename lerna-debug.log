@@ -1,5 +1,5 @@
-42 error Error: Command failed: git tag v0.0.4-alpha.0 -m v0.0.4-alpha.0
-42 error fatal: tag 'v0.0.4-alpha.0' already exists
+42 error Error: Command failed: git tag v0.0.5-alpha.0 -m v0.0.5-alpha.0
+42 error fatal: tag 'v0.0.5-alpha.0' already exists
 42 error
 42 error     at makeError (/usr/local/lib/node_modules/lerna/node_modules/execa/index.js:174:9)
 42 error     at /usr/local/lib/node_modules/lerna/node_modules/execa/index.js:278:16
