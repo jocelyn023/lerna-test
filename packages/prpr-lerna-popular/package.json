@@ -1,6 +1,6 @@
 {
   "name": "prpr-lerna-popular",
-  "version": "0.0.3-alpha.0",
+  "version": "0.0.4-alpha.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.0",
-    "prpr-lerna-core": "^0.0.3-alpha.0"
+    "prpr-lerna-core": "^0.0.4-alpha.0"
   }
 }
