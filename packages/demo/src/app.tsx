@@ -2,7 +2,7 @@ import React from 'react';
 
 import "./app.less"
 
-import Package1 from "package1"
+import Package1 from "package_11111_l"
 
 function App() {
   return (

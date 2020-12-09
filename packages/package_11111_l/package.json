@@ -1,5 +1,5 @@
 {
-  "name": "package1",
+  "name": "package_11111_l",
   "version": "0.0.7-alpha.0",
   "description": "> TODO: description",
   "author": "刘巧艳 <961951661@qq.com>",
@@ -32,5 +32,5 @@
     "test": "echo \"Error: run tests from root\" && exit 1",
     "dev": "webpack --config webpack.config.js  --watch --progress --colors"
   },
-  "gitHead": "c104b30213e669e2319d172d2a81c3b76185a1b7"
+  "gitHead": "d43c37785a377d02b9c8e51a2857e0d2e526b1fb"
 }
