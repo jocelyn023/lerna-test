@@ -1,9 +1,9 @@
 {
   "name": "package2",
-  "version": "0.0.1-alpha.0",
+  "version": "0.0.0",
   "description": "> TODO: description",
   "author": "刘巧艳 <961951661@qq.com>",
-  "homepage": "https://github.com/jocelyn023/lerna-test#readme",
+  "homepage": "",
   "license": "ISC",
   "main": "lib/package2.js",
   "directories": {
@@ -13,14 +13,10 @@
   "files": [
     "lib"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jocelyn023/lerna-test.git"
+  "publishConfig": {
+    "registry": "https://registry.yarnpkg.com/"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  },
-  "bugs": {
-    "url": "https://github.com/jocelyn023/lerna-test/issues"
   }
 }
