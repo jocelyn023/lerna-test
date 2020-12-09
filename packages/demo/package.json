@@ -1,6 +1,6 @@
 {
   "name": "demo",
-  "version": "0.0.3-alpha.0",
+  "version": "0.0.4-alpha.0",
   "description": "> TODO: description",
   "author": "刘巧艳 <961951661@qq.com>",
   "homepage": "",
@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "html-webpack-plugin": "^4.2.0",
-    "package1": "^0.0.3-alpha.0"
+    "package1": "^0.0.4-alpha.0"
   },
   "gitHead": "b5eb99596d6acee6c363eb6a758012ad237bdcb5"
 }
