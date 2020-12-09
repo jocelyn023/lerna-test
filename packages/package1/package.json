@@ -3,6 +3,7 @@
   "version": "0.0.4-alpha.0",
   "description": "> TODO: description",
   "author": "刘巧艳 <961951661@qq.com>",
+  "private": true,
   "homepage": "",
   "license": "ISC",
   "main": "dist/bundle.js",
@@ -32,5 +33,5 @@
     "test": "echo \"Error: run tests from root\" && exit 1",
     "dev": "webpack --config webpack.config.js  --watch --progress --colors"
   },
-  "gitHead": "b5eb99596d6acee6c363eb6a758012ad237bdcb5"
+  "gitHead": "c104b30213e669e2319d172d2a81c3b76185a1b7"
 }
