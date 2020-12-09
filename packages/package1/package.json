@@ -3,7 +3,6 @@
   "version": "0.0.5-alpha.0",
   "description": "> TODO: description",
   "author": "刘巧艳 <961951661@qq.com>",
-  "private": true,
   "homepage": "",
   "license": "ISC",
   "main": "dist/bundle.js",
